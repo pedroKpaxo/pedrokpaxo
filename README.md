@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm a designer who loves to code in python.
+My interests are geology, geography and music.
+I'm also studying some javascript to improve my skills.
+
+
 
 <!--
 **pedroKpaxo/pedrokpaxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
