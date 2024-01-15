@@ -7,7 +7,7 @@ I also developed the [FastDlis](https://github.com/MonumentoSoftware/fast-dlis) 
 
 You can find me on:
 
-* [Twitter as @tiangolo]([https://twitter.com/tiangolo](https://twitter.com/pedro_kpaxo))
+* [Twitter as @pedrokpaxo](https://twitter.com/pedro_kpaxo)
 * [GitHub as @pedroKpaxo (Hello!)](https://github.com/pedroKpaxo)
 * [LinkedIn](https://linkedin.com/in/pedrokpaxo)
 * [Medium](https://medium.com/@pedro_kpaxo)
